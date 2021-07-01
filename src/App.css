@@ -1,0 +1,20 @@
+.roomIdButton {
+  background-color: transparent;
+  border: none;
+}
+
+.roomIdSpan {
+  padding: 10px 5px 5px 0px;
+  background-color: gray;
+  color: white; 
+  border-radius: 5px;
+  margin: 5px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+button {
+  margin: 1rem;
+}
